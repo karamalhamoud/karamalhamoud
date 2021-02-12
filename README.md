@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @karamalhamoud
+- 👀 I’m interested in software development and full-stack web develompent
+- 🌱 I’m currently learning Xamrain to be able to code mobile apps too
+- 💞️ I’m looking to collaborate on open source projects
