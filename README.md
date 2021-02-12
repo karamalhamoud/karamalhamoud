@@ -8,8 +8,8 @@
 
 ### 📱 Connect with me:
 
-[<img align="left" title="karam.dev" width="25px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/wa.png" />][whatsapp]
-[<img align="left" title="Karam Alhamoud | Instagram" width="25px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/instagram.png" />][instagram]
+[<img align="left" title="Karam Alhamoud | Whatsapp" width="35px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/wa.png" />][whatsapp]
+[<img align="left" title="Karam Alhamoud | Instagram" width="35px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/instagram.png" />][instagram]
 
 <br />
 
