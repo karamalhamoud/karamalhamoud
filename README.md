@@ -9,7 +9,6 @@
 ### 📱 Connect with me:
 
 [<img align="left" title="Karam Alhamoud | Instagram" width="25px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/instagram.png" />][instagram]
-[<img align="left" title="Karam Alhamoud | LinkedIn" width="25px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/linkedin.png" />][linkedin]
 [<img align="left" title="karam.dev" width="25px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/web.png" />][website]
 
 <br />
