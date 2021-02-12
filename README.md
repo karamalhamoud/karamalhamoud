@@ -1,7 +1,7 @@
 ### Hi there, I'm Karam 👋
 
 ## I'm a Software & Web Developer
-- 🔭 I’m currently working on a [Nothing][website]
+- 🔭 I’m currently working on a [Nothing][project]
 - 🌱 I’m currently learning Xamarin
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -29,3 +29,4 @@
 
 [whatsapp]: https://wa.me/message/JE5LCSKG5VEJA1
 [instagram]: https://www.instagram.com/karam.alhamoud/
+[project]: #
