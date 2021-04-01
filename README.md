@@ -21,8 +21,7 @@
 <img align="left" title="CSS3" width="40px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/css.png" />
 <img align="left" title="Javascript" width="40px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/js.png" />
 <img align="left" title="Xamarin" width="40px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/xa.png" />
-<br />
-<br />
+
 <br />
 
 ### ⏳ CodeTime:
