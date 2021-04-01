@@ -24,6 +24,8 @@
 <br />
 <br />
 <br />
+
+### ⏳ CodeTime :
 <img alt="Code Time" src="https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/1106?logoColor=white%26project=%26recentMS=0%26showProject=false" />
 
 [whatsapp]: https://wa.me/message/JE5LCSKG5VEJA1
