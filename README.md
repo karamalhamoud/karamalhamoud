@@ -23,6 +23,7 @@
 <img align="left" title="Xamarin" width="40px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/xa.png" />
 
 <br />
+![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/1106?logoColor=white%26project=%26recentMS=0%26showProject=false)
 <br />
 <br />
 
