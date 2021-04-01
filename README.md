@@ -6,11 +6,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-### 📱 Connect with me:
-
-[<img align="left" title="Karam Alhamoud | Whatsapp" width="26px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/wa.png" />][whatsapp]
-[<img align="left" title="Karam Alhamoud | Instagram" width="26px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/instagram.png" />][instagram]
-
 <br />
 
 ### 📚 Languages & Frameworks:
@@ -21,6 +16,14 @@
 <img align="left" title="CSS3" width="40px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/css.png" />
 <img align="left" title="Javascript" width="40px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/js.png" />
 <img align="left" title="Xamarin" width="40px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/xa.png" />
+
+<br />
+
+
+### 📱 Connect with me:
+
+[<img align="left" title="Karam Alhamoud | Whatsapp" width="26px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/wa.png" />][whatsapp]
+[<img align="left" title="Karam Alhamoud | Instagram" width="26px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/instagram.png" />][instagram]
 
 <br />
 
