@@ -22,10 +22,9 @@
 <img align="left" title="Javascript" width="40px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/js.png" />
 <img align="left" title="Xamarin" width="40px" src="https://github.com/karamalhamoud/karamalhamoud/raw/main/xa.png" />
 <br />
+<br />
+<br />
 <img alt="Code Time" src="https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/1106?logoColor=white%26project=%26recentMS=0%26showProject=false" />
-<br />
-<br />
-
 
 [whatsapp]: https://wa.me/message/JE5LCSKG5VEJA1
 [instagram]: https://www.instagram.com/karam.alhamoud/
