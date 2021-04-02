@@ -9,7 +9,7 @@
 <br />
 
 ### My skills 🚀
-![C#](https://img.shields.io/badge/-CSharp-903BA8?style=for-the-badge&logo=c-sharp&logoColor=white) &nbsp;
+![C#](https://img.shields.io/badge/-CSharp-0076F7?style=for-the-badge&logo=c-sharp&logoColor=white) &nbsp;
 ![Php](https://img.shields.io/badge/-php-4F5B93?style=for-the-badge&logo=php&logoColor=white) &nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
