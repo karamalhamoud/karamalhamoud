@@ -31,12 +31,12 @@
 ### 📱 Connect with me:
 
 <a href="https://www.instagram.com/karam.alhamoud/"><img src="https://img.shields.io/badge/instagram%20@karam.alhamoud-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
+<!-- 
 <a href="#"><img src="https://img.shields.io/badge/facebook%20@karam.alhamoud-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 <a href="#"><img src="https://img.shields.io/badge/twitter%20@karam.alhamoud-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
-<a href="#"><img src="https://img.shields.io/badge/whatsapp%20@karam.alhamoud-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/whatsapp%20@karam.alhamoud-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> -->
 
 
 <br />
