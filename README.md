@@ -1,4 +1,4 @@
-### Hi there, I'm Karam <img style="vertical-align:bottom;" width="30px" src="hi.gif" />
+### Hi there, I'm Karam <img style="vertical-align:bottom;" width="10px" src="hi.gif" />
 
 ## I'm a Software Developer
 - 🔭 I’m currently working on my private project
