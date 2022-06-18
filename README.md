@@ -16,8 +16,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
 ![jquery](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) &nbsp;
 ![Less](https://img.shields.io/badge/less-1D365D?style=for-the-badge&logo=less&logoColor=white) &nbsp;
-![C#](https://img.shields.io/badge/-CSharp-0076F7?style=for-the-badge&logo=c-sharp&logoColor=white) &nbsp;
 
+![C#](https://img.shields.io/badge/-CSharp-0076F7?style=for-the-badge&logo=c-sharp&logoColor=white) &nbsp;
 ![MySql](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
 ![git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white) &nbsp;
 ![Docker](https://img.shields.io/badge/Docker-0093D7?style=for-the-badge&logo=docker&logoColor=white) &nbsp;
