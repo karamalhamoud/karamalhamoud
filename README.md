@@ -22,8 +22,7 @@
 ![git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white) &nbsp;
 ![Docker](https://img.shields.io/badge/Docker-0093D7?style=for-the-badge&logo=docker&logoColor=white) &nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) &nbsp;
-![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) &nbsp;
-![Xcode](https://img.shields.io/badge/-Xcode-1769E2?style=for-the-badge&logo=pwa&logoColor=white) &nbsp;
+![Xcode](https://img.shields.io/badge/-Pwa-7A1FA1?style=for-the-badge&logo=pwa&logoColor=white) &nbsp;
 
 
 
