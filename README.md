@@ -1,7 +1,7 @@
 ### Hi there, I'm Karam
 
 ## I'm a Software Developer
-- 🔭 I’m currently working on my private project
+- 🔭 I’m currently working on a `private project`
 - 🌱 I’m currently learning Mobile App development
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -20,10 +20,10 @@
 
 ![MySql](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
 ![git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white) &nbsp;
-![Docker](https://img.shields.io/badge/Docker-0093D7?style=for-the-badge&logo=heroku&logoColor=white) &nbsp;
+![Docker](https://img.shields.io/badge/Docker-0093D7?style=for-the-badge&logo=docker&logoColor=white) &nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) &nbsp;
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) &nbsp;
-![Xcode](https://img.shields.io/badge/-Xcode-1769E2?style=for-the-badge&logo=xamarin&logoColor=white) &nbsp;
+![Xcode](https://img.shields.io/badge/-Xcode-1769E2?style=for-the-badge&logo=xcode&logoColor=white) &nbsp;
 
 
 
@@ -50,14 +50,14 @@
 <br />
 
 
-<!-- ### ⚒ My Portfolio
+### ⚒ My Portfolio
 
 <p align="left">
 <a href="https://savio.xyz/introducing-hashtree-link-tree-for-all-hashnode-users" title="Introducing Hashtree - Link tree for all hashnode users ✌"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616835612451/d7DiMhtk-.png" alt="Introducing Hashtree - Link tree for all hashnode users ✌" width="250px" align="left" /></a>
 <a href="https://savio.xyz/introducing-hashtree-link-tree-for-all-hashnode-users" title="Introducing Hashtree - Link tree for all hashnode users ✌"><strong>Introducing Hashtree - Link tree for all hashnode users ✌</strong></a>
 <br/> Hello Devs 👋
 This is Savio here. I'm young dev with an intention
-to enhance as a successful web developer. I love building web apps with React... </p> <br/> <br/> -->
+to enhance as a successful web developer. I love building web apps with React... </p> <br/> <br/>
 
 
 
